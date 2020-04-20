@@ -1,8 +1,4 @@
-## Frontend
+# Plan-it
+A mobile application that allows you to plan the minutia of your trip. Real-time event modification, route calculation and itinerary generation are some of the key features of the application.  
 
-install `NodeJS 10.*`, DO NOT INSTALL THE 12.* 
-
-cd into `frontend` and run `npm install`
-
-to view the app run `npm start` or `expo start`
-
+Note: Use `NodeJS 10.*`
